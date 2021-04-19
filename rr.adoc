@@ -37,7 +37,7 @@ image::img/header.png[width=400, link='img/header.png']
 Блок с системными баннерами
 
 
-==== Схемы
+==== Схема
 
 image::img/main_1.png[width=300, link='img/main_1.png']
 image::img/main_2.png[width=300, link='img/main_2.png']
@@ -59,66 +59,42 @@ image::img/footer.png[width=400, link='img/footer.png']
 
 Основное меню сайта, группа ссылок, упрощающих навигацию по каталогу сайта
 
-image::img/menu.png[width=600, link='img/menu.png']
-
 === Панель пользователя
 
 Блок с пользовательскими элементами управления
-
-image::img/user_panel.png[width=400, link='img/user_panel.png']
 
 === Карусель
 
 Блок прокручивающий какое-либо содержимое
 
-image::img/carousel.png[width=400, link='img/carousel.png']
-image::img/carousel_main.png[width=500, link='img/carousel_main.png']
-
 === Кнопка
 
 Элемент взаимодействия с пользователем
-
-image:img/button.png[width=100, link='img/button.png']
-image:img/button_round.png[width=50, link='img/button_round.png']
 
 === Иконка
 
 Маленькая, часто встречающаяся картинка (SVG)
 
-image::img/icon.png[width=40, link='img/icon.png']
-
 === Баннер
 
 Элемент содержащий информацию рекламного харакетера
-
-image::img/banner.png[width=500, link='img/banner.png']
 
 === Карточка заказа
 
 Краткая информация о заказе
 
-image::img/order_card.png[width=300, link='img/order_card.png']
-
 === Карточка товара
 
-Блок с краткой информацией о товаре
-
-image::img/product_card.png[width=200, link='img/product_card.png']
+Блок с краткой информацией о товарe
 
 === Карточка категории
 
 Блок с краткой информацией о категории
 
-image::img/category_card.png[width=200, link='img/category_card.png']
-
 === Карточка бренда
 
 Блок с краткой информацией о бренде
 
-image::img/brand_card.png[width=200, link='img/brand_card.png']
-
 === Список товаров
 
 Блок с краткой информацией о товарах в заказе
-
-image::img/products_list.png[width=250, link='img/products_list.png']
