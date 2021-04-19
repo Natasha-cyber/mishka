@@ -42,10 +42,10 @@
 
 ==== Схемы
 
-image::images/header.png[width=400, link='images/header.png']
-image:images/main_1.png[width=300, link='images/main_1.png']
-image:images/main_2.png[width=300, link='images/main_2.png']
-image::images/footer.png[width=400, link='images/footer.png']
+image::img/header.png[width=400, link='img/header.png']
+image:img/main_1.png[width=300, link='img/main_1.png']
+image:img/main_2.png[width=300, link='img/main_2.png']
+image::img/footer.png[width=400, link='img/footer.png']
 
 
 == Элементы
@@ -56,66 +56,66 @@ image::images/footer.png[width=400, link='images/footer.png']
 
 Основное меню сайта, группа ссылок, упрощающих навигацию по каталогу сайта
 
-image::images/menu.png[width=600, link='images/menu.png']
+image::img/menu.png[width=600, link='img/menu.png']
 
 === Панель пользователя
 
 Блок с пользовательскими элементами управления
 
-image::images/user_panel.png[width=400, link='images/user_panel.png']
+image::img/user_panel.png[width=400, link='img/user_panel.png']
 
 === Карусель
 
 Блок прокручивающий какое-либо содержимое
 
-image::images/menu.png[width=400, link='images/menu.png']
-image::images/menu.png[width=500, link='images/menu.png']
+image::img/menu.png[width=400, link='img/menu.png']
+image::img/menu.png[width=500, link='img/menu.png']
 
 === Кнопка
 
 Элемент взаимодействия с пользователем
 
-image:images/button.png[width=100, link='images/button.png']
-image:images/button_round.png[width=50, link='images/button_round.png']
+image:img/button.png[width=100, link='img/button.png']
+image:img/button_round.png[width=50, link='img/button_round.png']
 
 === Иконка
 
 Маленькая, часто встречающаяся картинка (SVG)
 
-image::images/icon.png[width=40, link='images/icon.png']
+image::img/icon.png[width=40, link='img/icon.png']
 
 === Баннер
 
 Элемент содержащий информацию рекламного харакетера
 
-image::images/banner.png[width=500, link='images/banner.png']
+image::img/banner.png[width=500, link='img/banner.png']
 
 === Карточка заказа
 
 Краткая информация о заказе
 
-image::images/order_card.png[width=300, link='images/order_card.png']
+image::img/order_card.png[width=300, link='img/order_card.png']
 
 === Карточка товара
 
 Блок с краткой информацией о товаре
 
-image::images/product_card.png[width=200, link='images/product_card.png']
+image::img/product_card.png[width=200, link='img/product_card.png']
 
 === Карточка категории
 
 Блок с краткой информацией о категории
 
-image::images/category_card.png[width=200, link='images/category_card.png']
+image::img/category_card.png[width=200, link='img/category_card.png']
 
 === Карточка бренда
 
 Блок с краткой информацией о бренде
 
-image::images/brand_card.png[width=200, link='images/brand_card.png']
+image::img/brand_card.png[width=200, link='img/brand_card.png']
 
 === Список товаров
 
 Блок с краткой информацией о товарах в заказе
 
-image::images/products_list.png[width=250, link='images/products_list.png']
+image::img/products_list.png[width=250, link='img/products_list.png']
