@@ -1,0 +1,121 @@
+== Лейаут
+
+Описание основных блоков главной страницы
+
+=== Хедер (1)
+
+Шапка сайта
+
+Блок включает в себя контейнеры для дополнительной навигации, для логотипа и контролов и для меню
+
+=== Сторис (2)
+
+Блок, содержащий превью истории
+
+Превью истории - картинка, информирующая о ее содержании
+
+=== Заказы (3)
+
+Блок, содержащий текущие заказы пользователя
+
+=== Ссылки - переименовать (4)
+
+Блок с элементами, указывающими на определенный раздел сайта
+
+=== Акции (5)
+
+Блок с баннерами акций
+
+=== Контейнер - переименовать (6)
+
+Декоративный блок, которому можно задать заголовок/содежимое/фон/кнопку
+
+=== Баннеры (7)
+
+Блок с системными баннерами
+
+=== Футер (8)
+
+Подвал сайта
+
+Включает в себя контейнеры для социальных сетей, навигационных ссылок и дополнительной информации
+
+==== Схемы
+
+image::images/header.png[width=400, link='images/header.png']
+image:images/main_1.png[width=300, link='images/main_1.png']
+image:images/main_2.png[width=300, link='images/main_2.png']
+image::images/footer.png[width=400, link='images/footer.png']
+
+
+== Элементы
+
+Основные элементы сайта
+
+=== Меню
+
+Основное меню сайта, группа ссылок, упрощающих навигацию по каталогу сайта
+
+image::images/menu.png[width=600, link='images/menu.png']
+
+=== Панель пользователя
+
+Блок с пользовательскими элементами управления
+
+image::images/user_panel.png[width=400, link='images/user_panel.png']
+
+=== Карусель
+
+Блок прокручивающий какое-либо содержимое
+
+image::images/menu.png[width=400, link='images/menu.png']
+image::images/menu.png[width=500, link='images/menu.png']
+
+=== Кнопка
+
+Элемент взаимодействия с пользователем
+
+image:images/button.png[width=100, link='images/button.png']
+image:images/button_round.png[width=50, link='images/button_round.png']
+
+=== Иконка
+
+Маленькая, часто встречающаяся картинка (SVG)
+
+image::images/icon.png[width=40, link='images/icon.png']
+
+=== Баннер
+
+Элемент содержащий информацию рекламного харакетера
+
+image::images/banner.png[width=500, link='images/banner.png']
+
+=== Карточка заказа
+
+Краткая информация о заказе
+
+image::images/order_card.png[width=300, link='images/order_card.png']
+
+=== Карточка товара
+
+Блок с краткой информацией о товаре
+
+image::images/product_card.png[width=200, link='images/product_card.png']
+
+=== Карточка категории
+
+Блок с краткой информацией о категории
+
+image::images/category_card.png[width=200, link='images/category_card.png']
+
+=== Карточка бренда
+
+Блок с краткой информацией о бренде
+
+image::images/brand_card.png[width=200, link='images/brand_card.png']
+
+=== Список товаров
+
+Блок с краткой информацией о товарах в заказе
+
+image::images/products_list.png[width=250, link='images/products_list.png']
