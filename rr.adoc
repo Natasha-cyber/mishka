@@ -8,6 +8,8 @@
 
 Блок включает в себя контейнеры для дополнительной навигации, для логотипа и контролов и для меню
 
+image::img/header.png[width=400, link='img/header.png']
+
 === Сторис (2)
 
 Блок, содержащий превью истории
@@ -34,18 +36,19 @@
 
 Блок с системными баннерами
 
+
+==== Схемы
+
+image::img/main_1.png[width=300, link='img/main_1.png']
+image::img/main_2.png[width=300, link='img/main_2.png']
+
 === Футер (8)
 
 Подвал сайта
 
 Включает в себя контейнеры для социальных сетей, навигационных ссылок и дополнительной информации
 
-==== Схемы
-
-image:img/header.png[width=400, link='img/header.png']
-image:img/main_1.png[width=300, link='img/main_1.png']
-image:img/main_2.png[width=300, link='img/main_2.png']
-image:img/footer.png[width=400, link='img/footer.png']
+image::img/footer.png[width=400, link='img/footer.png']
 
 
 == Элементы
