@@ -42,10 +42,10 @@
 
 ==== Схемы
 
-image::img/header.png[width=400, link='img/header.png']
+image:img/header.png[width=400, link='img/header.png']
 image:img/main_1.png[width=300, link='img/main_1.png']
 image:img/main_2.png[width=300, link='img/main_2.png']
-image::img/footer.png[width=400, link='img/footer.png']
+image:img/footer.png[width=400, link='img/footer.png']
 
 
 == Элементы
@@ -68,8 +68,8 @@ image::img/user_panel.png[width=400, link='img/user_panel.png']
 
 Блок прокручивающий какое-либо содержимое
 
-image::img/menu.png[width=400, link='img/menu.png']
-image::img/menu.png[width=500, link='img/menu.png']
+image::img/carousel.png[width=400, link='img/carousel.png']
+image::img/carousel_main.png[width=500, link='img/carousel_main.png']
 
 === Кнопка
 
