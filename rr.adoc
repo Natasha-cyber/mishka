@@ -55,6 +55,9 @@ image::img/footer.png[width=400, link='img/footer.png']
 
 Основные элементы сайта
 
+image::img/elements_1.png[width=300, link='img/elements_1.png']
+image::img/elements_2.png[width=300, link='img/elements_2.png']
+
 === Меню
 
 Основное меню сайта, группа ссылок, упрощающих навигацию по каталогу сайта
